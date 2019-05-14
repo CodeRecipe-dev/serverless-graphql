@@ -1,4 +1,5 @@
 # Host Web Service with AWS Lambda
+by: Dasith kuruppu
 
 More info here:  [https://coderecipe.ai/architectures/1453356](https://coderecipe.ai/architectures/1453356)
 
